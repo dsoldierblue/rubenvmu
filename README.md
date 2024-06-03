@@ -9,5 +9,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rvmu-rvmu&show_icons=true&locale=en&layout=compact" alt="rvmu-rvmu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rvmu-rvmu&show_icons=true&locale=en" alt="rvmu-rvmu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rvmu-rvmu&" alt="rvmu-rvmu" /></p>
