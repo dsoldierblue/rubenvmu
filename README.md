@@ -9,9 +9,7 @@
 <p align="left"> <a href="https://twitter.com/araintelx" target="blank"><img src="https://img.shields.io/twitter/follow/araintelx?logo=twitter&style=for-the-badge" alt="araintelx" /></a> </p>
 
 
-- 🔭 I’m currently working on **Araintelsoft**
-
-- 📫 How to reach me **rvmu@araintel.com**
+- 🔭 I’m currently working on **Araintel Soft**       📫 How to reach me **rvmu@araintel.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
