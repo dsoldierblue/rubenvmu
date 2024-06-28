@@ -11,7 +11,9 @@
 <h2 align="left">Certs:</h2>
 <ul>
   <li>Certified Microsoft Educator </li>
+  <li>Azure 900 Fundamentals</li>
   <li>Certified Ethical Hacker</li>
+  <li>Azure SC-900</li>
   <li>Power BI 300 PL</li>
   <li>Linux LPIC-2</li>
 </ul>
