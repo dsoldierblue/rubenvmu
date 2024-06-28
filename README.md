@@ -10,6 +10,7 @@
 
 <h2 align="left">Certs:</h2>
 <ul>
+  <li>Certified Microsoft Educator </li>
   <li>Certified Ethical Hacker</li>
   <li>Power BI 300 PL</li>
   <li>Linux LPIC-2</li>
