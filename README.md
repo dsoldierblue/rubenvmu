@@ -1,2 +1,2 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rvmu-rvmu&label=Profile%20views&color=0e75b6&style=flat" alt="rvmu-rvmu" /> </p>
-<img style="height: 400px; weight: 150px" src="https://i.imgur.com/GcyuwL6.jpeg">
+<p align="left"> <img src="blob:https://imgur.com/56666f92-a2b2-4bc0-97f7-c47e5d7ebaf5" alt="rvmu-rvmu" /> </p>
+<img style="height: 450px; weight: 150px" src="https://i.imgur.com/GcyuwL6.jpeg">
