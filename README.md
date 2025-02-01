@@ -3,6 +3,9 @@
 
 `Director of Aragón Inteligencia` | `Cyberintelligence Journalism` | `Strategist`  
 
+### **Languages & Tools**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub](https://img.shields.io/badge/GitHub-@rubenvmu-181717?style=flat&logo=github)](https://github.com/rubenvmu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ruben-vasile-marcu-ungureanu)
 [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-Rank_Hacker-9FEF00?style=flat&logo=hackthebox)](https://app.hackthebox.com/profile/your_id)
@@ -16,19 +19,6 @@
 🏆 **Award-Winning Professional**: 1st Prize INCIBE EMPRENDE, ITA, SODIAR Finalist, Cyberleague semifinalist.  
 
 ---
-
-## 🛠️ **Technical Arsenal**
-### **Languages & Tools**
-```csharp
-// Code speaks louder than words!
-public class Skills {
-  string[] Languages = { "C#", "Rust", "Python", "JavaScript" };
-  string[] CloudTech = { "Azure", ".NET 9", "Dynamics 365 CRM" };
-  string[] Cybersecurity = { "OSINT", "Threat Analysis", "Hack The Box Top 1%" };
-}
-```
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenvmu&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📚 **Education & Development**
 - **B.A. Communication** @ Universidad de Zaragoza (2021-2025)  
