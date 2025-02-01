@@ -1,4 +1,4 @@
-```markdown
+
 # 👨💻 **Ruben-Vasile Marcu Ungureanu**  
 `Director of Aragón Inteligencia` | `Cyberintelligence Journalist` | `Strategist`  
 [![GitHub](https://img.shields.io/badge/GitHub-@rubenvmu-181717?style=flat&logo=github)](https://github.com/rubenvmu)
@@ -67,7 +67,7 @@ public class Skills {
 - **B.A. Communication** @ Universidad de Zaragoza (2021-2025)  
 - **Continuous Learning**:  
   ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-15/100-0078D4?logo=microsoft)  
-  ![HTB](https://img.shields.io/badge/Hack_The_Box-Pro_Hacker-9FEF00?logo=hackthebox)
+  ![HTB](https://img.shields.io/badge/Hack_The_Box-Hacker-9FEF00?logo=hackthebox)
 
 ---
 
@@ -86,4 +86,3 @@ public class Skills {
 - Mobile-responsive table layouts
 - Philosophy-driven headers for personal branding
 
-**To customize**: Replace `your_id` in HTB badge link and add specific project URLs!
