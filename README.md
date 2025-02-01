@@ -1,5 +1,7 @@
 
 # 👨💻 **Ruben-Vasile Marcu Ungureanu**  
+*"Noblesse oblige"*
+
 `Director of Aragón Inteligencia` | `Cyberintelligence Journalist` | `Strategist`  
 
 [![GitHub](https://img.shields.io/badge/GitHub-@rubenvmu-181717?style=flat&logo=github)](https://github.com/rubenvmu)
@@ -11,8 +13,8 @@
 
 ## 🚀 **About Me**
 **Cyberintelligence Architect** & **Tech Journalist** with a passion for bridging cybersecurity innovation and strategic communication.  
-📢 **Director** of [Aragón Inteligencia](https://aragoninteligencia.es) – A leading digital platform in OSINT and cyberintelligence.  
-🏆 **Award-Winning Professional**: 1st Prize INCIBE EMPRENDE, SODIAR Finalist, NASA Space Challenge semifinalist.  
+📢 **Director** of [Aragón Inteligencia](https://araintel.com) – A leading digital platform in OSINT and cyberintelligence.  
+🏆 **Award-Winning Professional**: 1st Prize INCIBE EMPRENDE, ITA, SODIAR Finalist, Cyberleague semifinalist.  
 
 > *"Transforming raw data into actionable intelligence and public understanding through code, analysis, and strategic storytelling."*
 
