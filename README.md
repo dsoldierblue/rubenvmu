@@ -8,7 +8,7 @@
 
 
 ### **Languages & Tools**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenvmu&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenvmu&hide_progress=true)
 
 ---
 
