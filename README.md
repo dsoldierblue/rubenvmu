@@ -28,8 +28,7 @@ public class Skills {
 }
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenvmu&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenvmu&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📚 **Education & Development**
 - **B.A. Communication** @ Universidad de Zaragoza (2021-2025)  
