@@ -1,6 +1,7 @@
 
 # 👨💻 **Ruben-Vasile Marcu Ungureanu**  
 `Director of Aragón Inteligencia` | `Cyberintelligence Journalist` | `Strategist`  
+
 [![GitHub](https://img.shields.io/badge/GitHub-@rubenvmu-181717?style=flat&logo=github)](https://github.com/rubenvmu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ruben-vasile-marcu-ungureanu)
 [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-Rank_Hacker-9FEF00?style=flat&logo=hackthebox)](https://app.hackthebox.com/profile/your_id)
