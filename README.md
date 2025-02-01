@@ -1,6 +1,5 @@
-**Ruben-Vasile Marcu Ungureanu**  
+# Ruben-Vasile Marcu Ungureanu**  
 *"Noblesse oblige"*
-
 `Director of Aragón Inteligencia` | `Cyberintelligence Journalism` | `Strategist`  
 
 ### **Languages & Tools**
