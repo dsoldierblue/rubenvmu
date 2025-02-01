@@ -1,5 +1,4 @@
 # Ruben-Vasile Marcu Ungureanu**  
-*"Noblesse oblige"*
 `Director of Aragón Inteligencia` | `Cyberintelligence Journalism` | `Strategist`  
 
 [![GitHub](https://img.shields.io/badge/GitHub-@rubenvmu-181717?style=flat&logo=github)](https://github.com/rubenvmu)
@@ -14,6 +13,7 @@
 ---
 
 ## 🚀 **About Me**
+*"Noblesse oblige"*
 **Cyberintelligence Journalist & Strategist** with a passion for bridging cybersecurity innovation and strategic communication.  
 📢 **Director** of [Aragón Inteligencia](https://araintel.com) – A leading digital platform in OSINT and cyberintelligence.  
 🏆 **Award-Winning Professional**: 1st Prize INCIBE EMPRENDE, ITA, SODIAR Finalist, Cyberleague semifinalist.  
