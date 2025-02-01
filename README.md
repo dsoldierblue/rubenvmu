@@ -4,7 +4,7 @@
 `Director of Aragón Inteligencia` | `Cyberintelligence Journalism` | `Strategist`  
 
 ### **Languages & Tools**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenvmu&hide_progress=true)
 
 [![GitHub](https://img.shields.io/badge/GitHub-@rubenvmu-181717?style=flat&logo=github)](https://github.com/rubenvmu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ruben-vasile-marcu-ungureanu)
