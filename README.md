@@ -1,4 +1,4 @@
-## Ruben-Vasile Marcu Ungureanu
+## Ruben-Vasile Marcu
 `Director of Araintel.com` | `Cyberintelligence Journalism` | `Strategist`  
 
 [![GitHub](https://img.shields.io/badge/GitHub-@rubenvmu-181717?style=flat&logo=github)](https://github.com/rubenvmu)
