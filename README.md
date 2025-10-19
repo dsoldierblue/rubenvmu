@@ -1,5 +1,5 @@
-## renvu
-`Director of Araintel.com` | `Cyberintelligence Journalism` | `Strategist`  
+## bluesoldier
+`director en araintel.com`  
 
 [![GitHub](https://img.shields.io/badge/GitHub-@rubenvmu-181717?style=flat&logo=github)](https://github.com/rubenvmu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/ruben-vasile-marcu-ungureanu](https://www.linkedin.com/in/ruben-vasile-marcu-ungureanu-2477b9236/))
@@ -9,12 +9,3 @@
 
 ### **Languages & Tools**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenvmu&hide_progress=true)
-
----
-
-## 📚 **Education**
-- **B.A. Communication** @ Universidad de Zaragoza (2021-2025)  
----
-
-## 📬 **Let's Collaborate!**
-[![Email](https://img.shields.io/badge/Email-rvmu%40araintel.com-red?style=flat&logo=gmail)](mailto:rvmu@araintel.com)  
